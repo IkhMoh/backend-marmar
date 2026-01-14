@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "mohamed_ikhlef",
+    "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg",
+    "isRead": false,
+    "stories": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/demo/image/upload/v1700002000/marmer/story1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "https://res.cloudinary.com/demo/image/upload/v1700002001/marmer/story2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "sara_photos",
+    "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000001/marmer/user2.jpg",
+    "isRead": true,
+    "stories": [
+      {
+        "id": 1,
+        "image": "https://res.cloudinary.com/demo/image/upload/v1700002002/marmer/story3.jpg"
+      }
+    ]
+  }
+]

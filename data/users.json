@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "username": "mohamed_ikhlef",
+    "name": "Mohamed Ikhlef",
+    "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg",
+    "bio": "Building Marmer, an Instagram-like experience.",
+    "followers_count": 120,
+    "following_count": 200
+  },
+  {
+    "id": 2,
+    "username": "sara_photos",
+    "name": "Sara Photo",
+    "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000001/marmer/user2.jpg",
+    "bio": "Street and portrait photographer.",
+    "followers_count": 980,
+    "following_count": 350
+  },
+  {
+    "id": 3,
+    "username": "travel_ahmed",
+    "name": "Ahmed Traveler",
+    "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000002/marmer/user3.jpg",
+    "bio": "Sharing my travel stories around the world.",
+    "followers_count": 560,
+    "following_count": 410
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Sunset in Algiers",
+    "body": "Beautiful sunset over the sea tonight 🌅",
+    "media": [
+      "https://res.cloudinary.com/demo/image/upload/v1700001000/marmer/post1.jpg"
+    ],
+    "tags": ["sunset", "algeria", "sea", "travel"],
+    "author": {
+      "id": 1,
+      "username": "mohamed_ikhlef",
+      "name": "Mohamed Ikhlef",
+      "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg"
+    },
+    "created_at": "2024-01-01T18:30:00.000Z",
+    "comments_count": 2,
+    "comments": [
+      {
+        "id": 1,
+        "body": "Amazing view! 🔥",
+        "author": {
+          "id": 2,
+          "username": "sara_photos",
+          "name": "Sara Photo",
+          "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000001/marmer/user2.jpg"
+        },
+        "created_at": "2024-01-01T19:00:00.000Z"
+      },
+      {
+        "id": 2,
+        "body": "I want to visit Algiers soon!",
+        "author": {
+          "id": 3,
+          "username": "travel_ahmed",
+          "name": "Ahmed Traveler",
+          "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000002/marmer/user3.jpg"
+        },
+        "created_at": "2024-01-01T19:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Coffee & Code",
+    "body": "Working on Marmer backend with a good coffee ☕💻",
+    "media": [
+      "https://res.cloudinary.com/demo/image/upload/v1700001001/marmer/post2.jpg"
+    ],
+    "tags": ["coding", "backend", "javascript", "express"],
+    "author": {
+      "id": 1,
+      "username": "mohamed_ikhlef",
+      "name": "Mohamed Ikhlef",
+      "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg"
+    },
+    "created_at": "2024-01-02T09:00:00.000Z",
+    "comments_count": 1,
+    "comments": [
+      {
+        "id": 1,
+        "body": "Good luck with the project! 🚀",
+        "author": {
+          "id": 2,
+          "username": "sara_photos",
+          "name": "Sara Photo",
+          "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000001/marmer/user2.jpg"
+        },
+        "created_at": "2024-01-02T09:30:00.000Z"
+      }
+    ]
+  }
+]

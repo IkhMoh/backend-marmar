@@ -1,0 +1,27 @@
+{
+  "name": "marmer-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Marmer (Instagram-like app) using Express and JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "instagram",
+    "backend",
+    "marmer"
+  ],
+  "author": "Mohamed Ikhlef",
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.41.2",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
