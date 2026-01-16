@@ -181,6 +181,11 @@ app.get("/", (req, res) => {
   res.json({ message: "Marmer API is running" });
 });
 
+// for test only
+app.get("/health", (req, res) => {
+  res.status(200).json({ status: "ok" });
+});
+
 // Start server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
