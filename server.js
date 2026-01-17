@@ -94,7 +94,7 @@ app.post("/posts", upload.array("media", 5), (req, res) => {
     id: posts.length ? posts[posts.length - 1].id + 1 : 1,
     title,
     body,
-    media,
+    media: media,
     tags,
     author: {
       id: 999,
