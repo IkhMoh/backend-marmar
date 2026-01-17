@@ -10,9 +10,9 @@ app.use(express.json());
 
 // ===== Cloudinary config =====
 cloudinary.config({
-  cloud_name: process.env.CLOUDINARY_CLOUD_NAME ,
-  api_key: process.env.CLOUDINARY_API_KEY ,
-  api_secret: process.env.CLOUDINARY_API_SECRET  ,
+  cloud_name: process.env.CLOUDINARY_CLOUD_NAME,
+  api_key: process.env.CLOUDINARY_API_KEY,
+  api_secret: process.env.CLOUDINARY_API_SECRET,
 });
 
 // Multer + Cloudinary storage
@@ -86,13 +86,15 @@ app.post("/posts", upload.array("media", 5), (req, res) => {
     tags = [];
   }
 
-  const mediaUrls = (req.files || []).map((f) => f.path);
-
+  const media = (req.files || []).map((file) => ({
+    url: file.path,
+    type: file.resource_type, // "image" | "video"
+  }));
   const newPost = {
     id: posts.length ? posts[posts.length - 1].id + 1 : 1,
     title,
     body,
-    media: mediaUrls,
+    media,
     tags,
     author: {
       id: 999,
