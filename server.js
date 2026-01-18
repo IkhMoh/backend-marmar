@@ -199,7 +199,7 @@ app.listen(PORT, () => {
 
 // Get all reels
 app.get("/reels", (req, res) => {
-  res.json(reels);
+  res.json({ data: reels });
 });
 
 // Get single reel
