@@ -343,7 +343,7 @@
         "id": 1,
         "body": "Motivating 💪",
         "author": { "id": 12, "username": "fit_anna", "name": "Anna Fit" }
-      },
+      }, 
       {
         "id": 2,
         "body": "I should start running too",

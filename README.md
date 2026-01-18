@@ -15,7 +15,7 @@ Simple Instagram-like backend for **Marmer**, built with **Express** and **JavaS
 - **Stories**:
   - `GET /stories` – list stories.
   - `POST /stories` – create a story with media.
-- **Users**:
+- **Users**: 
   - `GET /users` – list users.
   - `GET /users/:id` – show single user.
   - `GET /users/:id/posts` – posts by a specific user.
