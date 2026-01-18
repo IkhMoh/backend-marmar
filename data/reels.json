@@ -170,6 +170,112 @@
         { "id": 2, "body": "Love this!", "author": { "id": 1, "username": "john_doe", "name": "John Doe" } },
         { "id": 3, "body": "Nature is the best therapy", "author": { "id": 8, "username": "emma", "name": "Emma Stone" } }
       ]
-    }
+    },
+    {
+        "id": 6,
+        "title": "Daily coding motivation",
+        "body": "Small progress every day leads to big results in coding.",
+        "media": [
+          {
+            "url": "https://res.cloudinary.com/demo/video/upload/v1/reel_coding.mp4",
+            "type": "video"
+          }
+        ],
+        "tags": ["coding", "motivation", "developer"],
+        "author": {
+          "id": 14,
+          "username": "code_mike",
+          "name": "Mike Johnson",
+          "profile_image": "https://ui-avatars.com/api/?name=Mike"
+        },
+        "created_at": "2026-01-15T09:20:00.000Z",
+        "likes_count": 340,
+        "comments_count": 3,
+        "comments": [
+          { "id": 1, "body": "Needed this today 🙌", "author": { "id": 5, "username": "dev_sara", "name": "Sara Dev" } },
+          { "id": 2, "body": "So true!", "author": { "id": 1, "username": "john_doe", "name": "John Doe" } },
+          { "id": 3, "body": "Consistency is key 🔑", "author": { "id": 7, "username": "omar", "name": "Omar Salah" } }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Street food tour",
+        "body": "Trying the best street food spots in the city.",
+        "media": [
+          {
+            "url": "https://res.cloudinary.com/demo/video/upload/v1/reel_food.mp4",
+            "type": "video"
+          }
+        ],
+        "tags": ["food", "streetfood", "travel"],
+        "author": {
+          "id": 15,
+          "username": "foodie_anna",
+          "name": "Anna Lopez",
+          "profile_image": "https://ui-avatars.com/api/?name=Anna"
+        },
+        "created_at": "2026-01-15T13:45:00.000Z",
+        "likes_count": 780,
+        "comments_count": 4,
+        "comments": [
+          { "id": 1, "body": "This looks delicious 🤤", "author": { "id": 8, "username": "emma", "name": "Emma Stone" } },
+          { "id": 2, "body": "Where is this place?", "author": { "id": 10, "username": "noah", "name": "Noah Lee" } },
+          { "id": 3, "body": "Food goals!", "author": { "id": 11, "username": "kate", "name": "Kate Wilson" } },
+          { "id": 4, "body": "I want to try this!", "author": { "id": 3, "username": "alex", "name": "Alex Brown" } }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Minimal desk setup",
+        "body": "Keeping my workspace clean and minimal boosts my focus.",
+        "media": [
+          {
+            "url": "https://res.cloudinary.com/demo/video/upload/v1/reel_desk.mp4",
+            "type": "video"
+          }
+        ],
+        "tags": ["workspace", "minimal", "productivity"],
+        "author": {
+          "id": 16,
+          "username": "desk_setup",
+          "name": "Lucas Reed",
+          "profile_image": "https://ui-avatars.com/api/?name=Lucas"
+        },
+        "created_at": "2026-01-16T10:05:00.000Z",
+        "likes_count": 560,
+        "comments_count": 3,
+        "comments": [
+          { "id": 1, "body": "Love the minimal look ✨", "author": { "id": 6, "username": "linda", "name": "Linda White" } },
+          { "id": 2, "body": "Very clean!", "author": { "id": 2, "username": "sara", "name": "Sara Ali" } },
+          { "id": 3, "body": "Nice setup 👌", "author": { "id": 9, "username": "traveler_max", "name": "Max Miller" } }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Morning run routine",
+        "body": "A short run every morning keeps me energized all day.",
+        "media": [
+          {
+            "url": "https://res.cloudinary.com/demo/video/upload/v1/reel_run.mp4",
+            "type": "video"
+          }
+        ],
+        "tags": ["running", "morning", "fitness"],
+        "author": {
+          "id": 17,
+          "username": "run_daily",
+          "name": "Daniel Moore",
+          "profile_image": "https://ui-avatars.com/api/?name=Daniel"
+        },
+        "created_at": "2026-01-16T06:50:00.000Z",
+        "likes_count": 420,
+        "comments_count": 3,
+        "comments": [
+          { "id": 1, "body": "Motivating 💪", "author": { "id": 12, "username": "fit_anna", "name": "Anna Fit" } },
+          { "id": 2, "body": "I should start running too", "author": { "id": 5, "username": "dev_sara", "name": "Sara Dev" } },
+          { "id": 3, "body": "Great habit!", "author": { "id": 1, "username": "john_doe", "name": "John Doe" } }
+        ]
+      }
+      
   ]
   

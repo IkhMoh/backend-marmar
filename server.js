@@ -30,6 +30,7 @@ const upload = multer({ storage });
 // ===== Seed data (in-memory) =====
 let users = require(path.join(__dirname, "data", "users.json"));
 let posts = require(path.join(__dirname, "data", "posts.json"));
+let reels = require(path.join(__dirname, "data", "reels.json"));
 let stories = require(path.join(__dirname, "data", "stories.json"));
 let suggestions = require(path.join(__dirname, "data", "suggestions.json"));
 
