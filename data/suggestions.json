@@ -7,7 +7,7 @@
     "bio": "Nature lover 🌿",
     "followers": 180,
     "following": 220,
-    "followersInfo": [],
+    "all_posts": 16,
     "posts": [
       {
         "id": 1,
@@ -29,7 +29,7 @@
     "bio": "💙.🤍",
     "followers": 192,
     "following": 1646,
-    "followersInfo": ["amine_bouzid", "sarah_ali", "khaled_mansour"],
+    "all_posts": 16,
     "posts": [
       {
         "id": 2,
@@ -55,7 +55,7 @@
     "bio": "Coffee addict ☕",
     "followers": 290,
     "following": 100,
-    "followersInfo": ["khaled_mansour", "amine_bouzid"],
+    "all_posts": 16,
     "posts": [
       {
         "id": 3,
@@ -76,12 +76,12 @@
     "id": 4,
 
     "username": "samir_khalil",
-    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731208/jonathan-cooper-fT79ub9HGLg-unsplash_j4jpzi.jpg"
-,    "fullName": "Samir Khalil",
+    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731208/jonathan-cooper-fT79ub9HGLg-unsplash_j4jpzi.jpg",
+    "fullName": "Samir Khalil",
     "bio": "Entrepreneur 🚀",
     "followers": 320,
     "following": 230,
-    "followersInfo": ["oussama_lahkdari", "amine_bouzid"],
+    "all_posts": 16,
     "stories": [],
     "posts": [
       {
@@ -99,12 +99,12 @@
     "id": 5,
 
     "username": "lukasz_konieczka",
-    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731202/dark-style-ninja-naruto_s6nbl8.jpg"
-,    "fullName": "Lukasz Konieczka",
+    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731202/dark-style-ninja-naruto_s6nbl8.jpg",
+    "fullName": "Lukasz Konieczka",
     "bio": "Traveler ✈️",
     "followers": 210,
     "following": 195,
-    "followersInfo": [],
+    "all_posts": 16,
     "posts": [
       {
         "id": 5,
@@ -129,12 +129,12 @@
     "id": 6,
 
     "username": "jonathan_cooper",
-    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731199/2150697292_jb7q5e.jpg"
-,    "fullName": "Jonathan Cooper",
+    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731199/2150697292_jb7q5e.jpg",
+    "fullName": "Jonathan Cooper",
     "bio": "Coffee addict ☕",
     "followers": 250,
     "following": 230,
-    "followersInfo": [],
+    "all_posts": 16,
     "stories": [],
     "posts": [
       {
@@ -152,12 +152,12 @@
     "id": 7,
 
     "username": "alisha_limbu",
-    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731118/lukasz-konieczka-d7wf9X5BaVA-unsplash_f9wf0u.jpg"
-,    "fullName": "Alisha Limbu",
+    "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731118/lukasz-konieczka-d7wf9X5BaVA-unsplash_f9wf0u.jpg",
+    "fullName": "Alisha Limbu",
     "bio": "Photographer 📸",
     "followers": 150,
     "following": 200,
-    "followersInfo": [],
+    "all_posts": 16,
     "posts": [
       {
         "id": 7,
