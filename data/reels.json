@@ -14,7 +14,7 @@
       "id": 1,
       "username": "john_doe",
       "name": "John Doe",
-      "profile_image": "https://ui-avatars.com/api/?name=John"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731261/anime-style-house-architecture_whkay8.jpg"
     },
     "created_at": "2026-01-10T08:15:00.000Z",
     "likes_count": 230,
@@ -52,7 +52,7 @@
       "id": 5,
       "username": "dev_sara",
       "name": "Sara Dev",
-      "profile_image": "https://ui-avatars.com/api/?name=Sara"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731249/anime-style-house-architecture_1_kpxtap.jpg"
     },
     "created_at": "2026-01-11T14:40:00.000Z",
     "likes_count": 410,
@@ -95,7 +95,7 @@
       "id": 9,
       "username": "traveler_max",
       "name": "Max Miller",
-      "profile_image": "https://ui-avatars.com/api/?name=Max"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731219/3d-rendering-cartoon-welcome-door_eozm3u.jpg"
     },
     "created_at": "2026-01-12T21:10:00.000Z",
     "likes_count": 520,
@@ -133,7 +133,7 @@
       "id": 12,
       "username": "fit_anna",
       "name": "Anna Fit",
-      "profile_image": "https://ui-avatars.com/api/?name=Anna"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731208/jonathan-cooper-fT79ub9HGLg-unsplash_j4jpzi.jpg"
     },
     "created_at": "2026-01-13T07:30:00.000Z",
     "likes_count": 680,
@@ -176,7 +176,7 @@
       "id": 13,
       "username": "nature_love",
       "name": "Liam Green",
-      "profile_image": "https://ui-avatars.com/api/?name=Liam"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731202/dark-style-ninja-naruto_s6nbl8.jpg"
     },
     "created_at": "2026-01-14T18:55:00.000Z",
     "likes_count": 910,
@@ -214,7 +214,7 @@
       "id": 14,
       "username": "code_mike",
       "name": "Mike Johnson",
-      "profile_image": "https://ui-avatars.com/api/?name=Mike"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731199/2150697292_jb7q5e.jpg"
     },
     "created_at": "2026-01-15T09:20:00.000Z",
     "likes_count": 340,
@@ -252,7 +252,7 @@
       "id": 15,
       "username": "foodie_anna",
       "name": "Anna Lopez",
-      "profile_image": "https://ui-avatars.com/api/?name=Anna"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731118/lukasz-konieczka-d7wf9X5BaVA-unsplash_f9wf0u.jpg"
     },
     "created_at": "2026-01-15T13:45:00.000Z",
     "likes_count": 780,
@@ -295,7 +295,7 @@
       "id": 16,
       "username": "desk_setup",
       "name": "Lucas Reed",
-      "profile_image": "https://ui-avatars.com/api/?name=Lucas"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731117/alisha-limbu-2LxcsQVV_Vk-unsplash_jsvbcz.jpg"
     },
     "created_at": "2026-01-16T10:05:00.000Z",
     "likes_count": 560,
@@ -333,7 +333,7 @@
       "id": 17,
       "username": "run_daily",
       "name": "Daniel Moore",
-      "profile_image": "https://ui-avatars.com/api/?name=Daniel"
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731117/sebastian-laverde-wHOOHJwWMZc-unsplash_cfxzqp.jpg"
     },
     "created_at": "2026-01-16T06:50:00.000Z",
     "likes_count": 420,
