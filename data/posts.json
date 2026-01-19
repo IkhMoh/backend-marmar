@@ -14,7 +14,22 @@
       "id": 1,
       "username": "mohamed_ikhlef",
       "name": "Mohamed Ikhlef",
-      "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg"
+      "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg",
+      "bio": "Nature lover 🌿",
+      "followers": 180,
+      "following": 220,
+      "all_posts": 16,
+      "posts": [
+        {
+          "id": 1,
+          "media": [
+            {
+              "url": "https://res.cloudinary.com/demo/image/upload/v1/sebastian1.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
     },
     "created_at": "2024-01-01T18:30:00.000Z",
     "comments_count": 2,
@@ -41,8 +56,9 @@
         },
         "created_at": "2024-01-01T19:15:00.000Z"
       }
-    ] 
+    ]
   },
+
   {
     "id": 2,
     "title": "Coffee & Code",
@@ -55,10 +71,30 @@
     ],
     "tags": ["coding", "backend", "javascript", "express"],
     "author": {
-      "id": 1,
-      "username": "mohamed_ikhlef",
-      "name": "Mohamed Ikhlef",
-      "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg"
+      "id": 2,
+
+      "username": "oussama_lahkdari",
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731249/anime-style-house-architecture_1_kpxtap.jpg",
+      "name": "Oussama Lakhdari",
+      "bio": "💙.🤍",
+      "followers": 192,
+      "following": 1646,
+      "all_posts": 16,
+      "posts": [
+        { 
+          "id": 2,
+          "media": [
+            {
+              "url": "https://res.cloudinary.com/demo/image/upload/v1/oussama1.jpg",
+              "type": "image"
+            },
+            {
+              "url": "https://res.cloudinary.com/demo/image/upload/v1/oussama2.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
     },
     "created_at": "2024-01-02T09:00:00.000Z",
     "comments_count": 1,
