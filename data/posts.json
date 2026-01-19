@@ -14,7 +14,7 @@
       "id": 1,
       "username": "mohamed_ikhlef",
       "name": "Mohamed Ikhlef",
-      "profile_image": "https://res.cloudinary.com/demo/image/upload/v1700000000/marmer/user1.jpg",
+      "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731261/anime-style-house-architecture_whkay8.jpg",
       "bio": "Nature lover 🌿",
       "followers": 180,
       "following": 220,
@@ -72,7 +72,6 @@
     "tags": ["coding", "backend", "javascript", "express"],
     "author": {
       "id": 2,
-
       "username": "oussama_lahkdari",
       "profile_image": "https://res.cloudinary.com/djlcyjyfh/image/upload/v1768731249/anime-style-house-architecture_1_kpxtap.jpg",
       "name": "Oussama Lakhdari",
