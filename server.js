@@ -199,15 +199,15 @@ app.listen(PORT, () => {
 // ===== REELS =====
 
 // Get all reels
-app.get("/reels", (req, res) => {
+ app.get("/reels", (req, res) => {
   res.json({ data: reels });
-});
+ });
 
-// Get single reel
-app.get("/reels/:id", (req, res) => {
+ // Get single reel
+ app.get("/reels/:id", (req, res) => {
   const reel = reels.find((r) => r.id == req.params.id);
   if (!reel) {
     return res.status(404).json({ error: "Reel not found" });
   }
   res.json(reel);
-});
+ });
